@@ -1,0 +1,22 @@
+{
+  "name": "todo-api",
+  "version": "1.0.0",
+  "description": "A node to do application which uses MongoDB as database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarathmohan007/node-todo-api.git"
+  },
+  "author": "Sarath Mohan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarathmohan007/node-todo-api/issues"
+  },
+  "homepage": "https://github.com/sarathmohan007/node-todo-api#readme",
+  "dependencies": {
+    "mongodb": "^3.0.5"
+  }
+}
