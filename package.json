@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/sarathmohan007/node-todo-api#readme",
   "dependencies": {
-    "mongodb": "^3.0.5"
+    "mongodb": "^3.0.5",
+    "mongoose": "^5.0.12"
   }
 }
